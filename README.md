@@ -117,7 +117,7 @@ uvicorn main:app --reload
 
 ---
 
-## Screenshots (Optional)
+## SmartTrace
 
 <img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/45d51506-168b-422d-aa99-67ad0c08a30d" />
 
@@ -155,7 +155,3 @@ If you like this project:
 This project is for educational purposes.
 
 
-
-
-
-<img width="1918" height="1069" alt="image" src="https://github.com/user-attachments/assets/0bf4ed50-ad8a-45bb-83f2-c9b5910c0823" />
