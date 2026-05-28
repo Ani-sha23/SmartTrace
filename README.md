@@ -1,6 +1,7 @@
 # SmartTrace — AI-Powered Lost & Found System
 
 **Live Demo:** https://smarttrace-pi.vercel.app/
+
 ##By:
 * Akankshya Dibyadarsinee Rout
 * Anisha Garg
