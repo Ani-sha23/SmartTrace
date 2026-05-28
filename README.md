@@ -133,10 +133,11 @@ uvicorn main:app --reload
 
 ---
 
-## Author
+## Contributors
 
-**Anisha**
-GitHub: https://github.com/Ani-sha23
+**Akankshya Dibyadarsinee Rout**
+**Anisha Garg**
+**Anushka Ranjan**
 
 ---
 
