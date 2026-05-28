@@ -135,9 +135,9 @@ uvicorn main:app --reload
 
 ## Contributors
 
-**Akankshya Dibyadarsinee Rout**
-**Anisha Garg**
-**Anushka Ranjan**
+*Akankshya Dibyadarsinee Rout
+*Anisha Garg
+*Anushka Ranjan
 
 ---
 
