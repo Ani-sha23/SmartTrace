@@ -2,7 +2,7 @@
 
 **Live Demo:** https://smarttrace-pi.vercel.app/
 
-##By:
+Project Members:
 * Akankshya Dibyadarsinee Rout
 * Anisha Garg
 * Anushka Ranjan
